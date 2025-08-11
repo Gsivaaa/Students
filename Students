@@ -1,0 +1,6 @@
+git init
+git add README.md
+git commit -m "Initial commit with README"
+git branch -M main   # rename to 'main' branch
+git remote add origin https://github.com/Gsivaaa/Students.git
+git push -u origin main
